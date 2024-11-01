@@ -19,7 +19,7 @@ A comprehensive expense tracking application featuring full frontend-backend int
 ### [Agriguard](https://github.com/ESR-style/agriguard)
 An agriculture-focused application designed to provide essential resources and support to farmers. This project highlights my commitment to using technology for social good, combining my skills in web development with a focus on real-world applications.
 
-### [Plant Disease Detector AI](https://github.com/ESR-style/plant-disease-detector)
+### [Plant Disease Detector AI](https://github.com/ESR-style/Crop-Disease-ml)
 A mini-project utilizing AI/ML to scan plants for diseases, providing actionable insights for farmers. This project demonstrates my interest in artificial intelligence and my ability to integrate machine learning models into practical solutions.
 
 ## 🌱 Continuous Learning

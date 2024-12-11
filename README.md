@@ -19,8 +19,11 @@ A comprehensive expense tracking application featuring full frontend-backend int
 ### [Agriguard](https://github.com/ESR-style/agriguard)
 An agriculture-focused application designed to provide essential resources and support to farmers. This project highlights my commitment to using technology for social good, combining my skills in web development with a focus on real-world applications.
 
-### [Plant Disease Detector AI](https://github.com/ESR-style/Crop-Disease-ml)
-A mini-project utilizing AI/ML to scan plants for diseases, providing actionable insights for farmers. This project demonstrates my interest in artificial intelligence and my ability to integrate machine learning models into practical solutions.
+### [Rytamitra](https://github.com/ESR-style/RytaMitra)
+A finance app for farmers, offering expense tracking, savings management, and AI-driven insights with voice control in Kannada to simplify financial planning.
+
+### [Portfolio](https://github.com/ESR-style/Portfolio-Samarth)
+My personal portfolio showcasing the skills, projects, and experiences that define my journey as a software developer.
 
 ## 🌱 Continuous Learning
 I'm currently deepening my understanding of React and exploring advanced topics in web development. I thrive on challenges and enjoy learning new technologies that enhance my ability to deliver impactful solutions.

@@ -1,45 +1,53 @@
-# Hello, I'm @ESR-style | Samarth.A.K
+# Hi, I'm Samarth A K (@ESR-style)
 
-I'm a full-stack developer and ethical hacker passionate about building innovative applications that combine technology, creativity, and real-world impact. With experience spanning web/mobile development, machine learning, and offensive security, I thrive at the intersection of user experience and technical excellence.  
+I’m a software developer and security researcher who enjoys building systems that solve real problems. My interests sit at the intersection of **security, infrastructure, and intelligent software systems**.
 
-## 🚀 Current Skills
-- **Frontend Development:**  
-  HTML | CSS | JavaScript | TypeScript | React | React Native | Tailwind CSS
-- **Backend Development:**  
-  Node.js | Express | FastAPI | PostgreSQL | REST APIs
-- **Programming Languages:**  
-  C | C++ | Python | JavaScript | Java | Lua | TypeScript
-- **Cybersecurity & Red Teaming:**  
-  Bug Bounty | Web Application Pentesting | Burp Suite | Caido | Recon Tools | OWASP Top 10 | Real-world Attack Scenarios
+Right now I'm focused on building **Shadow Security**, where I'm working on tools that help organizations better understand their security posture and data governance.
 
-## 🌟 Featured Projects
-### [Surakshamitra – Behavioral Continuous Authentication](https://github.com/ESR-style/surakshamitra)
-A lightweight behavioral and cognitive authentication system for mobile banking. Uses Siamese Neural Networks to identify users based on typing cadence, swipe flow, and decision patterns — even with just 7 samples. Built end-to-end with React Native, FastAPI, and ML models trained in Python.
+---
 
-### [Expense Tracker](https://github.com/ESR-style/expense-tracker)
-A comprehensive expense tracking application featuring full frontend–backend integration, JWT authentication, and PostgreSQL for data management. Focused on usability and secure data flow.
+## What I'm Building
 
-### [Agriguard](https://github.com/ESR-style/agriguard)
-An agriculture-focused application providing essential resources and support to farmers—built to demonstrate tech for social good through practical tools.
+I'm currently building **Shadow Security**, a platform focused on security infrastructure and data governance for modern digital organizations.  
+[shadowsecurity.in](https://shadowsecurity.in)
 
-### [Rytamitra](https://github.com/ESR-style/RytaMitra)
-A finance app for farmers: expense tracking, savings management, and AI-driven insights with voice control in Kannada to simplify financial planning.
+The long-term goal is to build systems that make **security measurable and governance provable**, rather than relying on manual compliance processes.
+
+The platform is centered around **Shastra**, a **DPDP data governance runtime** designed to generate verifiable records for consent, access, and deletion events.
+
+Alongside Shastra, the platform includes supporting systems such as:
+
+- **Suraksha VDP** — a vulnerability disclosure platform connecting ethical hackers with organizations through a structured reporting and triage process.
+- **Astra** — an on-demand security scanner that detects exposed services, maps CVEs, and identifies security misconfigurations across infrastructure and web assets.
+---
+## Technical Areas
+
+**Security & Infrastructure:** Application Security • Vulnerability Discovery • Security Tooling  
+**Backend:** Node.js • FastAPI • PostgreSQL • REST APIs  
+**Frontend:** React • React Native • TypeScript • Tailwind CSS  
+**Programming:** Python • JavaScript • TypeScript • C/C++ • Java
+## Projects
+
+### [SurakshaMitra — Behavioral Continuous Authentication](https://github.com/ESR-style/surakshamitra)
+A behavior-based authentication system designed for mobile banking security.  
+Uses interaction signals such as typing cadence, swipe flow, and cognitive patterns to continuously verify user identity. Built using React Native, FastAPI, and machine learning models trained in Python.
+
+---
 
 ### [StyleGrid](https://github.com/ESR-style/StyleGrid)
-A lightweight, free alternative to AG Grid built from scratch for data dashboards. Written in TypeScript with a focus on extensibility. Features include dynamic column definitions, sorting, pagination foundation, keyboard-friendly interactions, and a design geared toward future additions like virtualization, filtering, and theming.
+A lightweight TypeScript data grid built from scratch as a free alternative to AG Grid for data-heavy dashboards.  
+Designed with extensibility in mind, supporting dynamic column definitions, sorting, keyboard-friendly interactions, and a foundation for future features like virtualization and advanced filtering.
 
-### [Portfolio](https://github.com/ESR-style/Portfolio-Samarth)
-My personal portfolio showcasing the skills, projects, and experiences that define my journey as a software developer.
+---
 
-## 🛡️ Red Team & Bug Bounty Work
-I actively contribute to securing the web through bug bounty programs and ethical hacking:  
-✅ Valid vulnerability triaged on HackerOne  
-🛡️ Exposed flaws like unauthenticated S3 access, rate-limit bypass, and IDORs  
-⚔️ Manual recon and attack chaining using Burp Suite, Caido, and custom scripts  
-🎯 Focused on low-signal, high-impact vulnerabilities — hacking is as much creativity as code
+### [Rytamitra](https://github.com/ESR-style/RytaMitra)
+A financial assistance platform designed for farmers.  
+Provides expense tracking, savings insights, and AI-driven recommendations with voice interaction in Kannada to simplify financial planning.
 
-## 🔥 What Drives Me
-Whether it’s helping farmers manage finances, protecting users through behavioral biometrics, or breaking insecure apps (responsibly) to make them safer—I build with purpose. I’m not just here to code; I’m here to create tools that matter, break things for good, and push boundaries.
+---
 
-## 📫 Get in Touch
-Email: [esrsamarth@gmail.com](mailto:esrsamarth@gmail.com)
+## Contact
+
+Always open to conversations around security, infrastructure, and building meaningful technology.
+
+Email: **esrsamarth@gmail.com**
